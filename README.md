@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**AlessioDP/AlessioDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://img.shields.io/discord/324271920696786956?label=Discord&style=for-the-badge&logo=discord)](https://discord.alessiodp.com/)
+[![Website](https://img.shields.io/website?label=alessiodp.com&url=https%3A%2F%2Falessiodp.com&style=for-the-badge&up_color=informational)](https://alessiodp.com/)
+[![MC plugins](https://img.shields.io/badge/MC_Plugins-4-yellow?style=for-the-badge)](https://www.spigotmc.org/resources/authors/alessiodp.41466/)
 
-Here are some ideas to get you started:
+I am Alessio **"AlessioDP"** De Pauli, a developer from _Italy_. I am known for developing Minecraft plugins and Inforge.net.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.alessiodp.vercel.app/api?username=AlessioDP&show_icons=true)
