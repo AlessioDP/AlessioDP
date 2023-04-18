@@ -11,3 +11,4 @@ I am Alessio **"AlessioDP"** De Pauli, a developer from _Italy_. I am known for 
 ### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.alessiodp.vercel.app/api?username=AlessioDP&show_icons=true)
+![Top Langs](https://github-readme-stats.alessiodp.vercel.app/api/top-langs/?username=AlessioDP&layout=compact)
